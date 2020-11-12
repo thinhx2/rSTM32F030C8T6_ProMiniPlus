@@ -28,24 +28,18 @@ Pinout:
 GenF0.menu.pnum.DEMO_F030F4=STM32F030F4 Demo board
 GenF0.menu.pnum.DEMO_F030F4.upload.maximum_data_size=4096
 GenF0.menu.pnum.DEMO_F030F4.upload.maximum_size=16384
-GenF0.menu.pnum.DEMO_F030F4.build.mcu=cortex-m0
 GenF0.menu.pnum.DEMO_F030F4.build.board=DEMO_F030F4
-GenF0.menu.pnum.DEMO_F030F4.build.series=STM32F0xx
 GenF0.menu.pnum.DEMO_F030F4.build.product_line=STM32F030x6
 GenF0.menu.pnum.DEMO_F030F4.build.variant=DEMO_F030F4
-GenF0.menu.pnum.DEMO_F030F4.build.cmsis_lib_gcc=arm_cortexM0l_math
 
 # RBOARD_F030C8T6 board
 # Support: Serial1 (USART1 on PA3, PA2)
 GenF0.menu.pnum.RBOARD_F030C8T6=STM32F030C8 STProMiniPlus
 GenF0.menu.pnum.RBOARD_F030C8T6.upload.maximum_data_size=8192
 GenF0.menu.pnum.RBOARD_F030C8T6.upload.maximum_size=65536
-GenF0.menu.pnum.RBOARD_F030C8T6.build.mcu=cortex-m0
 GenF0.menu.pnum.RBOARD_F030C8T6.build.board=RBOARD_F030C8T6
-GenF0.menu.pnum.RBOARD_F030C8T6.build.series=STM32F0xx
 GenF0.menu.pnum.RBOARD_F030C8T6.build.product_line=STM32F030x8
 GenF0.menu.pnum.RBOARD_F030C8T6.build.variant=RBOARD_F030C8T6
-GenF0.menu.pnum.RBOARD_F030C8T6.build.cmsis_lib_gcc=arm_cortexM0l_math
 ```
 
 
